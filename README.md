@@ -67,9 +67,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Laravel version: 8
 PHP version: 8.1
 
-## for seeder
-use php artisan db:seed
-seeder class : UserTableSeeder
+## for seeder(UserTableSeeder)
+use php artisan db:seed 
 
 ## migrate required
 ## npm run dev required
