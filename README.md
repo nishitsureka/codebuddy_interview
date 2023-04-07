@@ -63,6 +63,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## NOTE
+Laravel version: 8
+PHP version: 8.1
+
+## for seeder
+use php artisan db:seed
+seeder class : UserTableSeeder
+
+## migrate required
+## npm run dev required
+## db name: codebuddy
+## Credentials
 Admin Credential:
 email: admin@admin.com
 password: 12345678
